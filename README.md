@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Este es un simple webstie project para mostrar como usar git y github.
+Este, es un simple webstie project para mostrar como usar git y github.
 
 ## Introduction
 
