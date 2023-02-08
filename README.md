@@ -4,10 +4,12 @@ Este es un simple webstie project para mostrar como usar git y github.
 
 ## Introduction
 
+Este es un ejemplo 
+
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Agregando un proposito
 
 ##deployment 
 
