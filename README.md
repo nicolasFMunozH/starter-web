@@ -17,7 +17,7 @@ Aqui va el texto del despliegue
 
 ## how To contribute
 
-Se puede colaborar por redes sociales
+Please hacer commit correspondiente a este repositorio
 
 #### Copyright
 
